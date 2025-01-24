@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://amittrivedi565.github.io/fog_grid_wave_assignment",
+  "homepage": "https://amittrivedi565.github.io/fog_grid_wave_assignpmnment",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
